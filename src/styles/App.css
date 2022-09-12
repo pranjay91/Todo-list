@@ -1,0 +1,98 @@
+/* #todo-list {
+    width: 700px;
+    margin: 60px auto;
+  }
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+ 
+  form, .todo {
+    padding: 10px 20px;
+    margin-bottom: 10px;
+  }
+  form {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  form input {
+    padding: 4px 8px;
+    flex-grow: 1;
+    margin-right: 16px;
+  }
+  .todo {
+    display: flex;
+  }
+  
+  button {
+    font-size: 16px;
+    background-color: #27aedb;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #1f708b;
+  }
+  button:active {
+    background-color:#1f708b;
+  }
+  button:focus {
+    outline: 0;
+  }
+  input[type='text'] { 
+    font-size: 20px; 
+    font-family: monospace;
+ }
+  .todo input[type="checkbox"] {
+    transform: scale(1.8) translateY(1px);
+    margin: 0 16px 0 0;
+    cursor: pointer;
+  }
+  .todo-text input {
+    padding: 4px;
+  }
+  .todo-text {
+    font-size: 24px;
+    line-height: 24px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+  }
+  .todo-completed {
+    display: flex;
+    margin: 10px 0;
+  }
+  .todo-actions {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 140px;
+    margin-top: 20px;
+  }
+  .gap{
+    margin-left: 10px;
+  } */
+
+
+
+
+
+  h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-pink{
+	background-color:pink;
+}
